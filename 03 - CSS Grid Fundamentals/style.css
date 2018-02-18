@@ -1,0 +1,5 @@
+.container {
+	display: grid;
+	grid-template-columns: minmax(20%, 300px) auto;
+	grid-gap: 10px;
+}
